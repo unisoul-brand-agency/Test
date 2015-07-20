@@ -13,5 +13,3 @@ When this issue is resolved, Firebug Lite can be used directly - no further
 modifications are needed for OpenLayers.
 
 test
-
-fuck
